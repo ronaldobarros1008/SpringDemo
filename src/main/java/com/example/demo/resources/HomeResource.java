@@ -10,7 +10,7 @@ public class HomeResource {
 	
 	@GetMapping
 	public String getHello() {
-		return "Opa, to no ar!!!";
+		return "Opa, to no ar, deu bom !!!";
 	}
 
 }
